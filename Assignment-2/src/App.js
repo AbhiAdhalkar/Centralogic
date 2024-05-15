@@ -1,6 +1,6 @@
 import './App.css';
 import { useState } from 'react';
-import porsche1 from "./images/porsche1.jpg"
+
 
 function App() {
   const [car, setCar] = useState({
