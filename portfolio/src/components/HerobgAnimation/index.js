@@ -27,7 +27,7 @@ const HeroBgAnimation = () => (
           id="path_2"
         />
       </g>
-      <ellipse
+      <circle
         cx="295.027"
         cy="193.118"
         transform="translate(-295.027 -193.118)"
@@ -38,7 +38,7 @@ const HeroBgAnimation = () => (
         <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
           <mpath xlinkHref="#path_2" />
         </animateMotion>
-      </ellipse>
+      </circle>
       <path
         d="M294.685 193.474L268.932 219.258"
         transform="translate(-294.685 -193.474) rotate(45 294.685 193.474)"
